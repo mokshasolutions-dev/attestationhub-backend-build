@@ -1,0 +1,68 @@
+{
+    "attributes": {
+        "responseMap": {
+            "Privileged": {
+                "completed": 23,
+                "pending": 14,
+                "top5items": [
+                    {
+                        "Privileged Account Attestation for CORP 07/24/2025 - 1": "Pending",
+                        "Privileged Account Attestation for CORP 07/24/2025 - 2": "Pending",
+                        "Privileged Account Attestation for CORP 07/24/2025 - 3": "Pending",
+                        "Privileged Account Attestation for CORP 07/24/2025 - 4": "Pending",
+                        "Privileged Account Attestation for CORP 07/24/2025 - 5": "Pending"
+                    }
+                ]
+            },
+            "Application": {
+                "completed": 7,
+                "top5items": [
+                    {
+                        "Application Attestation for Ecard (2024-07-03)": "Completed",
+                        "Application Attestation for Ecard (2024-07-03) - 1": "Completed",
+                        "Application Attestation for IAM (2024-07-03)": "Completed",
+                        "Application Attestation for Ecard (10/30/2025) - 2": "Completed",
+                        "Application Attestation for Ecard (10/30/2025) - 3": "Completed"
+                    }
+                ]
+            },
+            "Entitlement": {
+                "pending": 1,
+                "top5items": [
+                    {
+                        "Entitlement Attestation for Ecard to 1a2c3b (2025-12-08)": "Pending"
+                    }
+                ]
+            },
+            "Birthright": {
+                "completed": 14,
+                "pending": 3,
+                "autoclosed": 0,
+                "top5items": [
+                    {
+                        "Birthright Attestation for 1a2c3c 12/22/2025 - 1": "Pending",
+                        "Birthright Attestation for 1a2c3c 12/22/2025 - 4": "Pending",
+                        "Birthright Attestation for 1a2c3c 12/22/2025 - 5": "Pending",
+                        "Birthright Attestation for PZEZ8 - All_Portsmouth_Staff_DLL_BR": "Completed",
+                        "Birthright Attestation for PZEZ8 11/13/2025": "Completed"
+                    }
+                ]
+            },
+            "Decentralized": {
+                "completed": 60,
+                "pending": 7,
+                "autoclosed": 11,
+                "top5items": [
+                    {
+                        "Decentralized Attestation for iPay Consumer Bill Pay 10/27/2025 - 1": "Pending",
+                        "Decentralized Attestation for Crescendo Admin 10/27/2025 - 2": "Pending",
+                        "Decentralized Attestation for NetXInvestor 10/27/2025": "Pending",
+                        "Decentralized Attestation for iPay Consumer Bill Pay 10/27/2025": "",
+                        "Decentralized Attestation for Bloomberg Professional Services 10/27/2025 - 1": ""
+                    }
+                ]
+            }
+        }
+    },
+    "success": true
+}

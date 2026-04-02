@@ -1,0 +1,1 @@
+{"version":3,"file":"test-admin-repo.js","sourceRoot":"","sources":["../src/test-admin-repo.ts"],"names":[],"mappings":";;AAAA,4FAAiH;AACjH,kBAAkB;AAClB,IAAA,kDAAwB,EAAC,UAAU,EAAE;IACnC,UAAU,EAAE,SAAS;IACrB,SAAS,EAAE,mBAAmB;CAC/B,CAAC,CAAC;AAEH,oBAAoB;AACpB,MAAM,MAAM,GAAG,IAAA,+CAAqB,EAAC,UAAU,CAAC,CAAC;AAEjD,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC"}
